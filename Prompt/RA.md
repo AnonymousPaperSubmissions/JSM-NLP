@@ -1,4 +1,3 @@
-SYSTEM_PROMPT = """
 # Interpretivist Analysis of Sport Management Scholarship
 
 ## Purpose
@@ -132,4 +131,3 @@ Provide your analysis in this JSON structure:
     }
   ]
 }
-"""
