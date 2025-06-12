@@ -1,5 +1,5 @@
 # Zeigler Folder
-We sincerely thank NASSM and the JSM for making these articles publicly available. The original articles can be accessed from the [Earle F. Zeigler Lecture Award page](https://nassm.org/awards-and-grants#page-section-61151cc91acb4b184fd58544).
+We sincerely thank NASSM and the JSM for making these articles publicly available. The original articles can be accessed from the [Earle F. Zeigler Lecture Award](https://nassm.org/awards-and-grants#page-section-61151cc91acb4b184fd58544) webpage.
 
 The `Zeigler` folder contains 33 publicly available Zeigler Award lectures published in JSM. Each article is available in PDF, Markdown, and JSON formats to facilitate verification, preprocessing, and NLP analysis. Note that Dr. Damon Andrew's lecture has not yet been published in JSM. Neverthless, we transcribed his speech, delivered at this year's (2025) award reception, and included it for analysis.
 
