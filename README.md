@@ -6,6 +6,8 @@ The `Zeigler` folder contains 33 publicly available Zeigler Award lectures publi
 # Prompt Folder
 The `Prompt` folder contains the exact system prompts (Research Assistant and Supervisor) utilized during our experiments. These prompts can help users replicate or experiment with our analyses to verify findings or extend our methodology.
 
+# Supplemental Folder
+
 # Experiment Instructions
 1. Go to [Google AI Studio](https://aistudio.google.com).
 2. Sign in (or register a Google account).
