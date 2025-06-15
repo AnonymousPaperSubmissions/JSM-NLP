@@ -1,6 +1,6 @@
 # Human-LLM augmented discourse analysis results
 
-The `Output` folder contains the original LLM outputs derived from our human–LLM augmented discourse analysis. We further organize the results in tabular form to facilitate interpretability and comparison. Each subsection corresponds to the analytical domains: scholar context, content themes, language patterns, and social relationships. A final subsection provides an overall evaluative assessment along with areas requiring further human review and interpretive judgment.
+The `Output` folder contains the original LLM outputs derived from our human–LLM augmented discourse analysis. We organize the results in tabular form below to facilitate interpretability and comparison. The first four subsections corresponds to the analytical domains: scholar context, content themes, language patterns, and social relationships. Final two subsections provide an overall evaluative assessment along with areas requiring further human review and interpretive judgment.
 
 ## Scholar context
 
